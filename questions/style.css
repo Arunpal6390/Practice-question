@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+}
+.navbar {
+  margin: 0;
+  height: 40px;
+  background-color: rgb(206, 160, 160);
+  width: auto;
+}
+.had {
+  text-align: center;
+  background-color: beige;
+  border: 1px solid black;
+}
